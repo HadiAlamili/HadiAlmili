@@ -1,0 +1,20 @@
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+plugins:
+  - jekyll-include-cache
+
+locale: "ar"
+title: "اسم موقعك هنا"
+subtitle: "مدونتي ومعرض رسوماتي وكتبي"
+description: "مساحتي الخاصة للمقالات والرسومات الفنية والكتب"
+
+minimal_mistakes_skin: "default" # يمكنك تغييره لاحقاً إلى dark للوضع الليلي
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
