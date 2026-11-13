@@ -3,6 +3,7 @@ plugins:
   - jekyll-include-cache
 
 locale: "ar"
+baseurl: "/HadiAlmili"
 title: "اسم موقعك هنا"
 subtitle: "مدونتي ومعرض رسوماتي وكتبي"
 description: "مساحتي الخاصة للمقالات والرسومات الفنية والكتب"
